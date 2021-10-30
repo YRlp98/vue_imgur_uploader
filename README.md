@@ -5,8 +5,8 @@ a Vue.js Image uploader using Imgur API with [Vue.js](https://vuejs.org/) <br />
 ## Screenshots
 
 **Index page:**
-![Image lists page](https://github.com/YRlp98/vue_imgur_uploader/tree/master/src/assets/images/SS1.png)
-![Upload page](https://github.com/YRlp98/vue_imgur_uploader/tree/master/src/assets/images/SS2.png)
+![Image lists page](https://github.com/YRlp98/vue_imgur_uploader/blob/master/src/assets/images/SS1.png)
+![Upload page](https://github.com/YRlp98/vue_imgur_uploader/blob/master/src/assets/images/SS2.png)
 
 
 ## Project setup
